@@ -55,4 +55,3 @@ p.measures(ERPdata, electrodes = "V78", window = c(1000, 1500), num.pts=10, pol=
 \author{
 Travis Moore
 }
-

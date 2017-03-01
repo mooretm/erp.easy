@@ -39,4 +39,3 @@ butterfly(ERPdata, electrodes = "V78", stim = 1)
 \author{
 Travis Moore
 }
-

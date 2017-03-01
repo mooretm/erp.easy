@@ -56,4 +56,3 @@ The data frames must either: \enumerate{
 \author{
 Travis Moore
 }
-

@@ -45,4 +45,3 @@ individual(ERPdata, electrodes = "V78", plots="y")
 \author{
 Travis Moore
 }
-

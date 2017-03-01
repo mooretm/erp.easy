@@ -40,4 +40,3 @@ myData = load.data('/Users/Username/Folder/', 'Positive', 20, -200, 899, 'n', FA
 \author{
 Travis Moore
 }
-

@@ -31,4 +31,3 @@ data(ERPdata)
 }
 }
 \keyword{datasets}
-

@@ -49,4 +49,3 @@ m.measures(ERPdata, electrodes = "V78", window = c(1000, 1500))
 \author{
 Travis Moore
 }
-

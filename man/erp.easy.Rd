@@ -40,6 +40,7 @@ The analysis functions \code{\link{m.measures}} and \code{\link{p.measures}} cal
 standard ERP measures such as mean amplitude, standard deviation, peak amplitude and
 peak latency for both grand average and individual waveforms.
 }
+
 \examples{
 library(erp.easy)
 
@@ -55,4 +56,3 @@ m.measures(ERPdata, electrodes = "V78", window = c(1000, 1500))
 \author{
 Travis Moore
 }
-

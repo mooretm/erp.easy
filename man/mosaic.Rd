@@ -45,4 +45,3 @@ mosaic(ERPdata, electrodes = "V78", cols = 5, rows = 5)
 \author{
 Travis Moore
 }
-

@@ -106,4 +106,3 @@ combo <- rbind.data.frame(neutral, positive)
 \author{
 Travis Moore
 }
-
