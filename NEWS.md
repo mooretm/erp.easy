@@ -1,6 +1,6 @@
 ---
 # erp.easy 1.1.0
-### February 21st, 2017
+### March 1st, 2017
 ---
 
 ## New Functions
