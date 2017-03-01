@@ -1,0 +1,6 @@
+exportPattern("^[[:alpha:]]+")
+importFrom("grDevices", "dev.new", "rgb")
+importFrom("graphics", "box", "legend", "lines", "par", 
+    "plot", "rect", "abline", "mtext")
+importFrom("stats", "setNames", "window")
+importFrom("utils", "read.table")
