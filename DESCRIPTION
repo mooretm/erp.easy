@@ -16,7 +16,6 @@ Depends:
     R (>= 3.2.0)
 Imports:
     plyr (>= 1.8.3),
-    signal (>= 0.7-6),
     gtools (>= 3.5.0)
 License: GPL-3
 LazyData: TRUE
